@@ -1,0 +1,11 @@
+25,ciao
+26,lala
+35,qua
+90,cias
+20,giorgi
+50,francesco
+2,salvatore
+10,ferdinando
+21,giovanni
+47,paolo
+94,luca
