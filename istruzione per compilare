@@ -1,2 +1,0 @@
-
-g++ main.cpp LinkedList.cpp nodo_hashtable.cpp Hashtable.cpp -o esecuzione
